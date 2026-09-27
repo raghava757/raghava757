@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Raghava Yadavalli
 
-<!--
-**raghava757/raghava757** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```json
+{
+  "_file": "profile_overview.json",
+  "title": "Full-Stack Developer",
+  "experience": [
+    "React",
+    "Node.js",
+    "Python"
+  ],
+  "location": "Hyderabad, India",
+  "core_competencies": [
+    "Robust Application Building",
+    "AI Chatbot Integration",
+    "Recommendation Systems"
+  ],
+  "featured_projects": [
+    "PPT-Hub",
+    "Customer-Service-Chatbot",
+    "Movie-Recommendation-System"
+  ]
+}
+```
